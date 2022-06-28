@@ -1,0 +1,38 @@
+.header {
+    height: 50%;
+}
+
+.name { 
+    padding: 10px;
+    margin: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(93, 4, 4);
+    background-color: gray;
+}
+
+.background {
+    color:blanchedalmond
+}
+
+.center {
+    text-align: center;
+}
+
+.border { 
+    padding: 10px;
+    margin: 5px;
+    background-color: aqua;
+    border: black 2px solid;
+    color: rgb(93, 80, 4);
+}
+
+body { background-color: blanchedalmond; }
+
+.menu {
+    display: flex;
+    justify-content:space-around;
+}
+
+.menu h1:hover {
+    color: brown;
+}
