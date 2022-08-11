@@ -41,3 +41,17 @@ body { background-color: rgb(20, 48, 86); }
     color: whitesmoke;
     margin:30px;
 }
+.trivia-screenshot {
+    opacity: 0.5;
+}
+
+.trivia-screenshot:hover {
+    opacity: 1;
+    animation: hoverAnimation .5s;
+}
+
+@keyframes hoverAnimation {
+    from { opacity: .8; }
+    to {opacity: 1; }
+
+}
