@@ -36,3 +36,8 @@ body { background-color: rgb(20, 48, 86); }
 .menu h1:hover {
     color: brown;
 }
+
+.intro {
+    color: whitesmoke;
+    margin:30px;
+}
