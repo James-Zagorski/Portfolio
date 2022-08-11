@@ -42,7 +42,7 @@ body { background-color: rgb(20, 48, 86); }
     margin:30px;
 }
 .trivia-screenshot {
-    opacity: 0.5;
+    opacity: 0.8;
 }
 
 .trivia-screenshot:hover {
