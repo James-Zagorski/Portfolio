@@ -50,6 +50,15 @@ body { background-color: rgb(20, 48, 86); }
     animation: hoverAnimation .5s;
 }
 
+.bayou-screenshot {
+    opacity: 0.8;
+}
+
+.bayou-screenshot:hover {
+    opacity: 1;
+    animation: hoverAnimation .5s;
+}
+
 @keyframes hoverAnimation {
     from { opacity: .8; }
     to {opacity: 1; }
